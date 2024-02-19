@@ -1,0 +1,78 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.main-header{
+    display: flex;
+    width: 80%;
+
+}
+.info{
+    width: 50%;
+    margin: 20px;
+    display: flex;
+    justify-content: left;
+
+}
+.info span{
+    margin-left: 10px;
+    
+}
+.logo{
+    width: 80%;
+    display: flex;
+    justify-content: end;
+}
+.facebook img{
+    width: 30px;
+    margin: 10px;
+}
+.instagram img{
+    width: 30px;
+    margin: 10px;
+}
+.twitter img{
+    width: 30px;
+    margin: 10px;
+}
+.container{
+    width: 70px;
+    margin: auto;
+    color: blueviolet;
+}
+
+.nav-bar{
+    /* text-decoration: none; */
+    display: flex;
+}
+.nav-bar .home{
+    text-decoration: none;
+    width: 20px;
+    margin: 20px;
+}
+.nav-bar .About{
+    text-decoration: none;
+    width: 20px;
+    margin: 20px;
+}
+.nav-bar .Groomers{
+    text-decoration: none;
+    width: 20px;
+    margin: 20px;
+}
+.nav-bar .Services{
+    text-decoration: none;
+    width: 20px;
+    margin: 20px;
+}
+.nav-bar .Blogs{
+    text-decoration: none;
+    width: 20px;
+    margin: 20px;
+}
+.nav-bar .Pricing{
+    text-decoration: none;
+    width: 20px;
+    margin: 20px;
+}
